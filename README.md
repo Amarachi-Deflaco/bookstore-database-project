@@ -7,12 +7,13 @@ This project is a relational database designed to manage bookstore operations in
 - SQL
 - MySQL Workbench
 
-## Features
-- Database schema design
-- Table relationships using primary and foreign keys
-- SQL queries for data analysis
+## 📊 Features
+- Designed database schema
+- Created tables with primary and foreign keys
+- Wrote SQL queries for analysis
+- Managed relationships between entities
 
-## Files Included
+## 📁 Project Files
 - SQL scripts
-- ER diagram
-- Sample query outputs
+- ER Diagram
+- Query outputs
